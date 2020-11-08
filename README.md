@@ -1,6 +1,5 @@
 # DeepLearning_concepts_implementation
 This repo consist the implementation of concepts - DL
-##Basic Operations . A simple example that cover TensorFlow 2.0+ basic operations.
 
 ## Basic Models
 Linear Regression Implement a Linear Regression with TensorFlow 
